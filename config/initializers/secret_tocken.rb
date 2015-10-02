@@ -1,0 +1,1 @@
+Tweetful::Application.config.secret_key_base = '`bundle exec rake secret`'
