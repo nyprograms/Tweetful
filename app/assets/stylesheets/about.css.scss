@@ -1,3 +1,40 @@
 // Place all the styles related to the About controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.masthead {
+  padding: 6em 0;
+  font-family: arial;
+  
+}
+
+.masthead-heading {
+  text-align: center;
+  margin-bottom: 0.1em;
+  color: #3498db;
+}
+
+.masthead-intro {
+  text-align: center;
+  margin-top: -0.2em;
+  color: #3498db;
+}
+
+.info {
+  float: left;
+  width: 30%;
+  margin-left: 30px;
+  background-color: #ecf0f1;
+  padding: .2em;
+  font-family: arial;
+}
+
+.info h2 {
+  text-align: center;
+  color: #3498db;
+}
+
+// Question about this footer. Why if I make the padding 10em or under, it barely moves. 5em to 0em does very little. If I do 20em it goes nuts
+.footer {
+  padding: 10em 2em;
+}
