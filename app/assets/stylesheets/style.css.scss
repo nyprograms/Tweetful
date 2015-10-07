@@ -21,47 +21,6 @@ body {
   padding-right: 0px;
   padding-top: 0px;
   unicode-bidi: embed;
-  width: 1280px;
-}
-
-nav {
-  background-image: image-url('twitter_web_sprite_bgs.png');
-  background-repeat: repeat-x;
-  min-height: 40px !important;
-}
-
-.nav-logo-link {
-  height: 12px;
-  padding: 10px 14px 18px;
-}
-
-.nav-sign-out {
-  float: right;
-  margin-top: -10px;
-}
-
-.bird-topbar-blue {
-  background-image: image-url('twetter-logo.png');
-  background-position: 0 0;
-  width: 24px;
-  height: 21px;
-  float: left;
-  margin-top: 10px;
-}
-
-.container {
-  width: 865px;
-  text-align: center;
-}
-
-.page-container {
-  bottom: 0;
-  left: 0;
-  max-height: 750px;
-  min-height: 545px;
-  position: absolute;
-  right: 0;
-  top: 0;
 }
 
 .panel hr {
